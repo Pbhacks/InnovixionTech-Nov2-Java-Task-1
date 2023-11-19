@@ -1,5 +1,5 @@
 # InnovixionTech
-Innovixion internship task 01 by Priyant;
+Innovixion internship task 01 by; Priyant
 
 ![Alt text](https://github.com/Pbhacks/InnovixionTech-Nov2-Java-Task-1/blob/main/1.png)
  
@@ -11,6 +11,7 @@ THIS APP HAS BEEN MADE AS BASIC COMMAND LINE CALCULATOR AND, HAS BEEN TESTED BY 
 ON ITS WORKING STRUCTURE.
 THIS IS COMPLETELY VIRUS FREE APPLICATION MADE WITH SPECIAL CONSIDERATIONS OF JAVA SECURITY
 ENRICHMENT AND ZERO DATA LEAK FEATURES.
+
 
  HOW TO USE?
 --------------
